@@ -1,0 +1,293 @@
+- basic_details:
+    folder: 1
+    price: 475000
+    brand: HP
+    model: EliteBook x360 1030 G2
+    type: Convertible Laptop / Tablet
+    processor: Intel Core i5-7200U @ 2.50GHz 2.71GHz
+    storage_capacity: 256GB SSD
+    max_storage_capacity: 2TB SSD
+    ram: 8GB
+    max_ram_upgrade: 8GB
+    supported_os: Windows 11
+    min_battery_backup: 2 hours
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 13.3-inch
+    resolution: 1920x1080
+    graphics_type: Intel HD 620
+    total_available_graphics_memory: 4.1GB
+    dedicated_video_memory: 128MB
+    shared_system_memory: 4GB
+  special_features:
+    hdmi: Yes
+    webcam: Yes
+    wifi: Yes
+    keypad_light: Yes
+    touchscreen: Yes
+    optical_drive: No
+    usb_ports: 2 + 1 Type-C
+    vga_output: No
+    sd_card_reader: Yes
+
+- basic_details:
+    folder: 3
+    price: 535000
+    brand: HP
+    model: zBook Firefly 14 G8
+    type: Ultrabook
+    processor: 11th Gen Intel Core i5-1145G7 @ 2.60GHz
+    storage_capacity: 256GB SSD
+    max_storage_capacity: 2TB SSD
+    ram: 16GB
+    max_ram_upgrade: 32GB
+    supported_os: Windows 11
+    battery_health: Excellent
+    min_battery_backup: 2 hrs
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 14-inch
+    resolution: 1920 x 1080
+    graphics_type: Intel Iris Xe
+    total_graphics_memory: 8.1GB
+  special_features:
+    hdmi: Yes
+    webcam: Yes
+    wifi: Yes
+    keypad_light: Yes
+    touchscreen: No
+
+- basic_details:
+    folder: 4
+    price: 358000
+    brand: Dell
+    model: Latitude 5400
+    type: Ultrabook
+    processor: Intel Core i5-8365U @ 1.60GHz 1.90GHz
+    storage_capacity: 256GB SSD
+    max_storage_capacity: 2TB SSD
+    ram: 8GB
+    max_ram_upgrade: 32GB
+    supported_os: Windows 10 and 11
+    battery_health: Excellent
+    min_battery_backup: 2 hrs
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 14-inch
+    resolution: 1920 x 1080
+    graphics_type: Intel UHD
+    total_graphics_memory: 4.1GB
+    dedicated_video_memory: 128MB
+    shared_system_memory: 4GB
+  special_features:
+    hdmi: Yes
+    webcam: Yes
+    wifi: Yes
+    keypad_light: Yes
+    touchscreen: No
+    optical_drive: No
+    usb_ports: 3 + 1 Type-C
+    vga_output: No
+    sd_card_reader: Yes
+
+- basic_details:
+    folder: 5
+    price: 380000
+    brand: Dell
+    model: Latitude 5401
+    type: Ultrabook
+    processor: Intel Core i5-9400H @ 2.50GHz 2.50GHz
+    storage_capacity: 256GB SSD
+    max_storage_capacity: 2TB SSD
+    ram: 8GB
+    max_ram_upgrade: 64GB
+    supported_os: Windows 11
+    battery_health: Excellent
+    min_battery_backup: 2 hrs
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 14-inch
+    resolution: 1920 x 1080
+    graphics_type: Intel HD 630
+    total_available_graphics_memory: 4.1GB
+    dedicated_video_memory: 128MB
+    shared_system_memory: 3.9GB
+  special_features:
+    hdmi: Yes
+    webcam: Yes
+    wifi: Yes
+    keypad_light: Yes
+    touchscreen: No
+    optical_drive: No
+    usb_a_port: 3
+    usb_c_port: 1
+    vga_output: No
+    sd_card_reader: Yes
+
+- basic_details:
+    folder: 6
+    price: 425000
+    brand: Dell
+    model: Latitude 5500
+    type: Ultrabook
+    processor: Intel Core i5-8365U @ 1.60GHz 1.90GHz
+    storage_capacity: 256GB SSD
+    max_storage_capacity: 2TB SSD
+    ram: 8GB
+    max_ram_upgrade: 32GB
+    supported_os: Windows 11
+    battery_health: Excellent
+    min_battery_backup: 2 hrs
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 15-inch
+    resolution: 1920 x 1080
+    graphics_type: Intel UHD 620
+    total_available_graphics_memory: 4.1GB
+    dedicated_video_memory: 128MB
+    shared_system_memory: 4GB
+  special_features:
+    hdmi: Yes
+    webcam: Yes
+    wifi: Yes
+    keypad_light: Yes
+    touchscreen: Yes
+    optical_drive: No
+    usb_a_port: 3
+    usb_c_port: 1
+    vga_output: No
+    sd_card_reader: Yes
+
+- basic_details:
+    folder: 7
+    price: 435000
+    brand: HP
+    model: EliteBook 840 G5
+    type: Ultrabook
+    processor: Intel Core i5-7300U @ 2.60GHz 2.71GHz
+    storage_capacity: 256GB SSD
+    max_storage_capacity: 2TB SSD
+    ram: 8GB
+    max_ram_upgrade: 32GB
+    supported_os: Windows 11
+    battery_health: Excellent
+    min_battery_backup: 2 hrs
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 14-inch
+    resolution: 1920x1080 60.02 Hz
+    graphics_type: Intel UHD 620
+    total_available_graphics_memory: 4.1GB
+    dedicated_video_memory: 128MB
+    shared_system_memory: 4GB
+  special_features:
+    hdmi: Yes
+    webcam: Yes
+    wifi: Yes
+    keypad_light: Yes
+    touchscreen: Yes
+    optical_drive: No
+    usb_type_a_ports: 2
+    usb_type_c_ports: 1
+    vga_output: No
+    sd_card_reader: Yes
+
+- basic_details:
+    folder: 8
+    price: 440000
+    brand: HP
+    model: ProBook x360 430 G8
+    type: Convertible laptop/tablet
+    processor: AMD Ryzen 5 5600U with Radeon Graphics 2.30 GHz
+    storage_capacity: 256GB SSD
+    max_storage_capacity: 2TB SSD
+    ram: 16GB
+    max_ram_upgrade: 16GB
+    supported_os: Windows 11
+    battery_health: Excellent
+    min_battery_backup: 2 hrs
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 13.3-inch
+    resolution: 1920 × 1080
+    graphics_type: AMD Radeon
+    total_available_graphics_memory: 8.3GB
+    dedicated_video_memory: 500MB
+    shared_system_memory: 7.8GB
+  special_features:
+    hdmi: Yes
+    webcam: Yes
+    wifi: Yes
+    keypad_light: No
+    touchscreen: Yes
+    optical_drive: No
+    usb_a_port: 2
+    usb_c_port: 1
+    vga_output: No
+    sd_card_reader: Yes
+
+- basic_details:
+    folder: 9
+    price: 445000
+    brand: HP
+    model: zBook 15u G4
+    type: Mobile Workstation
+    processor: Intel Core i7-7600U @ 2.80GHz 2.90GHz
+    storage_capacity: 256GB SSD
+    max_storage_capacity: 4TB SSD
+    ram: 8GB
+    max_ram_upgrade: 32GB
+    supported_os: Windows 10
+    battery_health: Excellent
+    min_battery_backup: 2 hrs
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 15.6-inch
+    resolution: 1920 x 1089
+    graphics_type: AMD FirePro W4180M
+    total_available_graphics_memory: 6GB
+    dedicated_video_memory: 2GB
+    shared_system_memory: 3.9GB
+  special_features:
+    hdmi: No
+    webcam: Yes
+    wifi: Yes
+    keypad_light: Yes
+    touchscreen: No
+    optical_drive: No
+    usb_a_port: 2
+    usb_c_port: 1
+    vga_output: No
+    sd_card_reader: Yes
+
+- basic_details:
+    folder: 10
+    price: 895000
+    brand: Apple
+    model: A2141 (16-inch, 2019)
+    type: Ultrabook
+    processor: 2.6 GHz 6-Core Intel Core i7
+    storage_capacity: 1TB SSD
+    max_storage_capacity: 1TB SSD
+    ram: 16GB
+    max_ram_upgrade: 16GB
+    supported_os: macOS Sequoia 15.0.1
+    battery_health: Excellent
+    min_battery_backup: 2 hrs
+    max_battery_backup: Depends on usage
+  display_properties:
+    screen_size: 16-inch
+    resolution: 3072 x 1920
+    graphics_type: AMD Radeon Pro 5300M
+    dedicated_video_memory: 4GB
+  special_features:
+    touch_id: Yes
+    touch_bar: Yes
+    hdmi: No
+    webcam: Yes
+    wifi: Yes
+    keypad_light: Yes
+    optical_drive: No
+    usb_ports: 4 Type-C
+    vga_output: No
+    sd_card_reader: No
